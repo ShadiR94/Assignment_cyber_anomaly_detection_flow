@@ -1,4 +1,4 @@
-# Cyber Anomaly Detection – Course Project
+# Cyber Anomaly Detection
 
 **Track:** Applicative (Cyber)  
 **Task:** Binary classification of network packets (positive = `anomaly`).  
